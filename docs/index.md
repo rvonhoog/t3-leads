@@ -61,9 +61,9 @@ TL;DR: Each door own network and fires to same IP. Single Locker in tab.
 
 
 ## Helpful Programs
-![[Alfred]]
-![[Brew]]
-![[Franz]]
+[[Alfred]]
+[[Brew]]
+[[Franz]]
 [[Oh-My-Zsh]]
 [[Obsidian]]
 [[Specticale]]
